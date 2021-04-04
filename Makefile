@@ -7,7 +7,7 @@ LDFLAGS=-g
 # LDFLAGS=-g -pg
 
 RM=rm
-LDLIBS=-ledit
+LDLIBS=
 
 # gprof src/main > x.txt
 
