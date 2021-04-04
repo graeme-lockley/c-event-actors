@@ -1,6 +1,6 @@
 # c-event-actors
 
-This project is an experiment on my part of construct a simple embedded event or asynchronous framework wired together within an actor framework.  This is all written in C.
+This project is an experiment on my part to construct a simple embedded event (or asynchronous framework) wired together to build an actor framework.  This is all written in C.
 
 The characteristics of this experimental framework are:
 
