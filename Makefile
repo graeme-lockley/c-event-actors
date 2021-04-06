@@ -11,7 +11,8 @@ LDLIBS=
 
 # gprof src/main > x.txt
 
-SRC_OBJECTS=
+SRC_OBJECTS= \
+	src/actor.o
 
 SRC_TARGETS=\
 	src/main
